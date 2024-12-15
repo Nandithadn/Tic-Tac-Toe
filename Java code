@@ -1,12 +1,10 @@
 // A simple program to demonstrate 
 // Tic-Tac-Toe Game.
 import java.util.*;
-
-public class GFG {
-
+public class GFG 
+{
 	static String[] board;
 	static String turn;
-
 
 	// CheckWinner method will 
 	// decide the combination 
